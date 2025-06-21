@@ -1,4 +1,4 @@
-# 🧠 ztm-rag
+# 🧠 curso-ztm-rag
 
 Repositório criado por [Lincoln Ferreira](https://github.com/lincolntrei) para acompanhar o curso **"AI Engineering Bootcamp: Retrieval Augmented Generation (RAG) for LLMs"**, oferecido pela plataforma [Zero to Mastery (ZTM)](https://zerotomastery.io/).
 
@@ -20,32 +20,6 @@ O foco é aplicar conceitos como:
 - **Prompt engineering**
 - **Embeddings**
 - **RAG pipelines**
-
----
-
-## 📂 Estrutura Inicial
-
-```
-
-ztm-rag/
-├── /notebooks/           # Códigos e anotações das aulas
-├── /projects/            # Projetos desenvolvidos ao longo do curso (em breve)
-└── README.md
-
-```
-
-*(A estrutura vai crescer conforme o andamento do curso.)*
-
----
-
-## ✅ Tecnologias abordadas no curso:
-
-- Python
-- LangChain
-- ChromaDB
-- OpenAI API
-- Hugging Face
-- Entre outras ferramentas para RAG
 
 ---
 
