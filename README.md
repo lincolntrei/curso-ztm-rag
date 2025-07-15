@@ -11,7 +11,7 @@ Este repositório serve como um espaço de estudo e prática sobre **RAG (Retrie
 Aqui serão armazenados:
 
 - 📝 **Arquivos de prática** com códigos das aulas.
-- 💻 **Projetos finais** desenvolvidos durante o bootcamp (em breve).
+- 💻 **Projetos finais** desenvolvidos durante o bootcamp.
 
 O foco é aplicar conceitos como:
 
@@ -26,7 +26,7 @@ O foco é aplicar conceitos como:
 ## 🚀 Progresso Atual:
 
 - [x] Seção de prática inicial
-- [ ] Primeiros projetos
+- [x] Primeiros projetos
 - [ ] Projetos finais avançados
 
 ---
