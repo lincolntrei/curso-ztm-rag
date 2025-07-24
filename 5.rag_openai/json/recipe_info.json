@@ -1,0 +1,6 @@
+[
+    {
+        "imagem_path": "/home/lincolndev/Codigos/Cursos/data-science-ia/ztm-rag/5.rag_openai/img/Southern Cookbook of Fine Recipes_pg9.jpg",
+        "conteudo": "Here\u2019s the structured recipe information extracted from the image:\n\n### Recipe Title\nChicken Gumbo\n\n### Ingredients\n- 1 small stewing chicken\n- 2 tablespoons flour, melted\n- 3 tablespoons butter\n- 1 onion, chopped\n- 4 cups okra, sliced and chopped\n- 2 cups tomato pulp\n- Few sprigs parsley, chopped\n- Salt and pepper to taste\n- 4 cups water\n\n### Instructions\n1. Clean and dress the chicken, cutting it into serving portions.\n2. Dredge the chicken lightly with flour and saut\u00e9 in melted butter along with the chopped onion.\n3. When the chicken is nicely browned, add the okra, tomatoes, parsley, and water.\n4. Season to taste with salt and pepper.\n5. Cook slowly until the chicken is tender and the okra is well-cooked (about 2\u00bd hours).\n6. Add water as required during the cooking process. If a thin soup is preferred, increase the quantity of water.\n\n### Cuisine Type\nSouthern\n\n### Dish Type\nSoup\n\n### Tags/Metadata\n- Chicken\n- Gumbo\n- Southern Cuisine\n- Comfort Food\n- Stew\n\nThis format is suitable for embedding in a Retrieval Augmented Generation (RAG) system."
+    }
+]
